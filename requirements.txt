@@ -1,0 +1,20 @@
+# Core Data Science & Utilities
+numpy
+pandas
+scikit-learn
+joblib
+
+# Media Processing
+yt-dlp
+openai-whisper
+ffmpeg-python
+
+# AI & Machine Learning
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+
+# Note: ffmpeg binary must be installed on the system (OS level)
+# On Colab/Ubuntu: sudo apt install ffmpeg
